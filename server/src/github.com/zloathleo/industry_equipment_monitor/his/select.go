@@ -2,7 +2,6 @@ package his
 
 import (
 	"database/sql"
-	"fmt"
 	"github.com/zloathleo/industry_equipment_monitor/common/logger"
 	"github.com/zloathleo/industry_equipment_monitor/db"
 	. "github.com/zloathleo/industry_equipment_monitor/dstruct"
@@ -21,28 +20,22 @@ func getSelectPointsString(points []string) string {
 	return strings.Join(a, ",")
 }
 
-//查找合适的历史表格
-func findHisTableByIndex(index int) string {
-	return fmt.Sprintf("his24_%d", index)
-}
-
 /**
 查找指定文件 指定表格的历史
 */
-func SelectSingleTableHistoryData(points []string, begin time.Time, tableIndex int, from int64, to int64, interval int, tableDataCount int, hisMap map[string][]*HDas, hisReqContext *HisReqContext) {
-	if points == nil || len(points) == 0 {
-		logger.Debug("request point is empty.")
-		return
-	}
+func SelectSingleTableHistoryData(points []string, reqParamTime *HisReqParamTime, historyMap *PointsValueHistory, hisReqContext *HisReqContext) {
+	begin := time.Unix(reqParamTime.From, 0)
+
 	currentConnect := db.GetAnyConnect(begin)
 	if currentConnect == nil {
+		//历史不存在
 		logger.Infof("can find connect %s.", utils.GetDayString(begin))
 		return
 	}
-	tableName := findHisTableByIndex(tableIndex)
+	tableName := findHisTable(begin)
 	pointsString := getSelectPointsString(points)
 
-	selectSql := "select * from " + tableName + " t where t.pn in (" + pointsString + ") and t.t >= " + strconv.FormatInt(from, 10) + " and t.t <= " + strconv.FormatInt(to, 10) + " ORDER BY t.t"
+	selectSql := "select * from " + tableName + " t where t.pn in (" + pointsString + ") and t.t >= " + strconv.FormatInt(begin.Unix(), 10) + " and t.t <= " + strconv.FormatInt(reqParamTime.To, 10) + " ORDER BY t.t"
 	logger.Debug(selectSql)
 
 	var readLock = todayDbLock
@@ -63,7 +56,7 @@ func SelectSingleTableHistoryData(points []string, begin time.Time, tableIndex i
 	}()
 
 	if err == nil && rows != nil {
-		foreachRow(points, from, to, interval, tableDataCount, rows, hisMap, hisReqContext)
+		foreachRow(rows, points, reqParamTime, historyMap, hisReqContext)
 	} else {
 		systemalarm.AddSystemAlarm(err)
 		return
@@ -71,11 +64,10 @@ func SelectSingleTableHistoryData(points []string, begin time.Time, tableIndex i
 
 }
 
-func foreachRow(points []string, from int64, to int64, interval int, tableDataCount int, rows *sql.Rows, hisMap map[string][]*HDas, hisReqContext *HisReqContext) {
-	var fromUInt64 = uint64(from)
+func foreachRow(rows *sql.Rows, points []string, reqParamTime *HisReqParamTime, historyMap *PointsValueHistory, hisReqContext *HisReqContext) {
 
 	var pn string
-	var t uint64
+	var t int64 //查询出的值时刻点
 	var value float64
 
 	//上一次的Index
@@ -94,9 +86,7 @@ func foreachRow(points []string, from int64, to int64, interval int, tableDataCo
 			systemalarm.AddSystemAlarm(err)
 			return
 		} else {
-			handleRecode(pn, t, value,
-				fromUInt64, interval, tableDataCount, hisMap, hisReqContext,
-				pointJumpMap, pointValueMap)
+			handleRecode(pn, t, value, reqParamTime, historyMap, hisReqContext, pointJumpMap, pointValueMap)
 		}
 	}
 
@@ -104,18 +94,16 @@ func foreachRow(points []string, from int64, to int64, interval int, tableDataCo
 		if lastDas != nil {
 			//最后一个数值补齐  补齐后续1分钟
 			lastEndTime := lastDas.T + 60
-			if int64(lastEndTime) > to {
-				lastEndTime = uint64(to)
+			if lastEndTime > reqParamTime.To {
+				lastEndTime = reqParamTime.To
 			}
-			jump := int(lastEndTime-fromUInt64) / interval
+			jump := int(lastEndTime-reqParamTime.From) / reqParamTime.Interval
 			lastJump := pointJumpMap[pointName]
-			lastValue := lastDas.V
 
 			//从上次Index开始补齐值
 			for j := lastJump + 1; j <= jump; j++ {
-				jt := fromUInt64 + uint64(interval*j)
 				jIdx := hisReqContext.Index + j
-				hisMap[pointName][jIdx] = &HDas{V: lastValue, T: jt}
+				historyMap.Series[pointName][jIdx] = &HDas{V:lastDas.V}
 			}
 		}
 	}
@@ -132,12 +120,10 @@ tableDataCount
 hisMap历史结果集
 hisReqContext历史请求上下文
 */
-func handleRecode(pn string, t uint64, value float64,
-	fromUInt64 uint64, interval int, tableDataCount int, hisMap map[string][]*HDas, hisReqContext *HisReqContext,
-	pointJumpMap map[string]int, pointValueMap map[string]*HDas) {
+func handleRecode(pn string, t int64, value float64, reqParamTime *HisReqParamTime, historyMap *PointsValueHistory, hisReqContext *HisReqContext, pointJumpMap map[string]int, pointValueMap map[string]*HDas) {
 
-	remainder := int(t-fromUInt64) % interval
-	jump := int(t-fromUInt64) / interval
+	remainder := int(t-reqParamTime.From) % reqParamTime.Interval
+	jump := int(t-reqParamTime.From) / reqParamTime.Interval
 	newIndex := hisReqContext.Index + jump
 
 	lastJump := pointJumpMap[pn]
@@ -146,16 +132,20 @@ func handleRecode(pn string, t uint64, value float64,
 
 	} else {
 		//从上次Index开始补齐值
-		for j := lastJump + 1; j <= jump; j++ {
-			jt := fromUInt64 + uint64(interval*j)
+		maxAppend := jump
+		if t-reqParamTime.From > 60 {
+			maxAppend = lastJump + 60 / reqParamTime.Interval
+		}
+
+		for j := lastJump + 1; j <= maxAppend; j++ {
 			jIdx := hisReqContext.Index + j
-			hisMap[pn][jIdx] = &HDas{V: lastValue.V, T: jt}
+			historyMap.Series[pn][jIdx] = &HDas{V: lastValue.V}
 		}
 	}
 
 	//余数==0代表就在需要的时间戳伤
 	if remainder == 0 {
-		hisMap[pn][newIndex] = &HDas{V: value, T: t}
+		historyMap.Series[pn][newIndex] = &HDas{V: value}
 	} else {
 	}
 

@@ -1975,3 +1975,130 @@ created by github.com/robfig/cron.(*Cron).run
 2018/11/16 00:50:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/history/history-setvice-chart.go at 33. request his param is err to[1540980000], dur[60]
 2018/11/16 00:53:28 [I] newSQLite3FileConnect data/data-2018-10-30.DB is exist.
 2018/11/16 00:56:26 [I] Got signal [interrupt], app exit.
+2018/11/16 01:43:26 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/16 01:43:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/16 01:43:26 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/16 01:43:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/16 01:43:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/16 01:43:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/16 01:43:26 [I] newSQLite3FileConnect data/data-2018-11-16.DB is exist.
+2018/11/16 01:43:26 [I] init db const time 0 ms.
+2018/11/16 01:43:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/16 01:43:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/16 01:43:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.
+2018/11/16 01:43:35 [I] newSQLite3FileConnect data/data-2018-10-31.DB is exist.
+2018/11/16 01:59:30 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/16 01:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/16 01:59:30 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/16 01:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/16 01:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/16 01:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/16 01:59:30 [I] newSQLite3FileConnect data/data-2018-11-16.DB is exist.
+2018/11/16 01:59:30 [I] init db const time 0 ms.
+2018/11/16 01:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/16 01:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/16 01:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.
+2018/11/16 01:59:36 [I] newSQLite3FileConnect data/data-2018-10-31.DB is exist.
+2018/11/16 02:00:00 [I] begin insert memcache into newtable
+2018/11/16 02:00:00 [I] finish insert memcache 
+2018/11/16 03:00:00 [I] begin insert memcache into newtable
+2018/11/16 03:00:00 [I] finish insert memcache 
+2018/11/16 04:00:00 [I] begin insert memcache into newtable
+2018/11/16 04:00:02 [I] finish insert memcache 
+2018/11/15 04:44:09 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 04:55:32 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 04:55:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 04:55:32 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 04:55:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 04:55:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 04:55:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 04:55:32 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 04:55:32 [I] init db const time 0 ms.
+2018/11/15 04:55:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 04:55:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 04:55:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.
+2018/11/15 05:00:00 [I] begin insert memcache into newtable
+2018/11/15 05:00:02 [I] finish insert memcache 
+2018/11/15 05:12:54 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 05:12:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 05:12:54 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 05:12:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 05:12:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 05:12:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 05:12:54 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 05:12:54 [I] init db const time 0 ms.
+2018/11/15 05:12:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 05:12:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 05:12:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.
+2018/11/15 06:00:00 [I] begin insert memcache into newtable
+2018/11/15 06:00:02 [I] finish insert memcache 
+2018/11/15 06:27:36 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 06:27:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 06:27:36 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 06:27:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 06:27:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 06:27:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 06:27:36 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 06:27:36 [I] init db const time 0 ms.
+2018/11/15 06:27:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 06:27:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 06:27:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.
+2018/11/15 06:46:28 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 06:46:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 06:46:28 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 06:46:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 06:46:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 06:46:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 06:46:28 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 06:46:28 [I] init db const time 0 ms.
+2018/11/15 06:46:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 06:46:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 06:46:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.

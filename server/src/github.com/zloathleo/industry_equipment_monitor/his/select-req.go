@@ -1,10 +1,10 @@
 package his
 
 import (
-	"time"
-	"github.com/zloathleo/industry_equipment_monitor/utils"
 	"github.com/zloathleo/industry_equipment_monitor/common/logger"
 	"github.com/zloathleo/industry_equipment_monitor/dstruct"
+	"github.com/zloathleo/industry_equipment_monitor/utils"
+	"time"
 )
 
 /**
@@ -21,18 +21,16 @@ dur 为枚举值[600...86400]
 86400 	24小时   interval=60    1440点+1
 604800 	168小时  interval=600    1008点+1
 */
-func FormatChartHisReqParam(to int64, dur int, interval int) *dstruct.HisReqParam {
+func NewHisReqParam(toInt int64, durInt int, interval int) *dstruct.HisReqParam {
 	//起始时间
-	var from int64
-	//时间戳间隔
-	//var interval int
+	var fromInt int64
 
 	//时长
-	switch dur {
+	switch durInt {
 	case 300:
 		{
 			//不改
-			from = to - 300
+			fromInt = toInt - 300
 			if interval == 0 {
 				interval = 1
 			}
@@ -41,7 +39,7 @@ func FormatChartHisReqParam(to int64, dur int, interval int) *dstruct.HisReqPara
 	case 600:
 		{
 			//不改
-			from = to - 600
+			fromInt = toInt - 600
 			if interval == 0 {
 				interval = 1
 			}
@@ -50,7 +48,7 @@ func FormatChartHisReqParam(to int64, dur int, interval int) *dstruct.HisReqPara
 	case 1800:
 		{
 			//30分钟
-			from = to - 1800
+			fromInt = toInt - 1800
 			if interval == 0 {
 				interval = 2
 			}
@@ -59,67 +57,67 @@ func FormatChartHisReqParam(to int64, dur int, interval int) *dstruct.HisReqPara
 	case 3600:
 		{
 			//60分钟
-			from = to - 3600
+			fromInt = toInt - 3600
 			if interval == 0 {
 				interval = 5
 			}
 
 			//对齐时间
-			from = utils.GetTimeInt5Sec(time.Unix(from, 0)).Unix()
-			to = from + 3600
+			fromInt = utils.GetTimeInt5Sec(time.Unix(fromInt, 0)).Unix()
+			toInt = fromInt + 3600
 
 			break
 		}
 	case 14400:
 		{
 			//4小时
-			from = to - 14400
+			fromInt = toInt - 14400
 			if interval == 0 {
 				interval = 15
 			}
 			//对齐时间
-			from = utils.GetTimeInt15Sec(time.Unix(from, 0)).Unix()
-			to = from + 14400
+			fromInt = utils.GetTimeInt15Sec(time.Unix(fromInt, 0)).Unix()
+			toInt = fromInt + 14400
 
 			break
 		}
 	case 28800:
 		{
 			//8小时
-			from = to - 28800
+			fromInt = toInt - 28800
 			if interval == 0 {
 				interval = 30
 			}
 
 			//对齐时间
-			from = utils.GetTimeInt30Sec(time.Unix(from, 0)).Unix()
-			to = from + 28800
+			fromInt = utils.GetTimeInt30Sec(time.Unix(fromInt, 0)).Unix()
+			toInt = fromInt + 28800
 			break
 		}
 	case 86400:
 		{
 			//24小时
-			from = to - 86400
+			fromInt = toInt - 86400
 			if interval == 0 {
 				interval = 60
 			}
 
 			//对齐时间
-			from = utils.GetTimeIntMin(time.Unix(from, 0)).Unix()
-			to = from + 86400
+			fromInt = utils.GetTimeIntMin(time.Unix(fromInt, 0)).Unix()
+			toInt = fromInt + 86400
 			break
 		}
 	case 604800:
 		{
 			//24小时*7
-			from = to - 604800
+			fromInt = toInt - 604800
 			if interval == 0 {
 				interval = 600
 			}
 
 			//对齐时间
-			from = utils.GetTimeInt10Min(time.Unix(from, 0)).Unix()
-			to = from + 604800
+			fromInt = utils.GetTimeInt10Min(time.Unix(fromInt, 0)).Unix()
+			toInt = fromInt + 604800
 			break
 		}
 	default:
@@ -128,37 +126,34 @@ func FormatChartHisReqParam(to int64, dur int, interval int) *dstruct.HisReqPara
 		}
 	}
 
-	fromTimeFm := time.Unix(from, 0)
-	toTime := time.Unix(to, 0)
+	fromTime := time.Unix(fromInt, 0)
+	toTime := time.Unix(toInt, 0)
 
-	logger.Debug("原始 请求 时间: ", utils.GetTimeString(fromTimeFm), utils.GetTimeString(toTime))
+	//按天分割的时间片段
 	var times []*dstruct.HisReqParamTime
 	//需要分文件查询
-	fromStepTime := from //int64
-	toStepTime := utils.GetTimeDayEnd(fromTimeFm)
-	logger.Debug("原始 请求 时间 begin : ", utils.GetIntTimeString(from))
+	fromStepTimeInt := fromInt //int64
+	toStepTime := utils.GetTimeDayEnd(fromTime)
 
 	for !toStepTime.After(toTime) {
-		itemCount := int(toStepTime.Unix()-from) / interval
-		toStepTimeInt := from + int64(interval*itemCount)
+		itemCount := int(toStepTime.Unix()-fromInt) / interval
+		toStepTimeInt := fromInt + int64(interval*itemCount)
 
 		//第二天 的下一个 时间戳
 		nextFromStepTimeInt := toStepTimeInt + int64(interval)
 
 		//add
-		hisReqParamTime := &dstruct.HisReqParamTime{From: fromStepTime, To: toStepTimeInt, Count: itemCount, Interval: interval}
-		logger.Debug("请求 日期分割  时间 step : ", utils.GetIntTimeString(hisReqParamTime.From), utils.GetIntTimeString(hisReqParamTime.To))
+		hisReqParamTime := &dstruct.HisReqParamTime{From: fromStepTimeInt, To: toStepTimeInt, Count: itemCount, Interval: interval}
 		times = append(times, hisReqParamTime)
 
-		fromStepTime = nextFromStepTimeInt
-		toStepTime = utils.GetTimeDayEnd(time.Unix(fromStepTime, 0))
+		fromStepTimeInt = nextFromStepTimeInt
+		toStepTime = utils.GetTimeDayEnd(time.Unix(fromStepTimeInt, 0))
 
 	}
 
-	hisReqParamTime := &dstruct.HisReqParamTime{From: fromStepTime, To: to, Count: int(to-fromStepTime)/interval + 1, Interval: interval}
-	logger.Debug("请求 日期分割  时间 step last : ", utils.GetIntTimeString(fromStepTime), utils.GetIntTimeString(to))
+	hisReqParamTime := &dstruct.HisReqParamTime{From: fromStepTimeInt, To: toInt, Count: int(toInt-fromStepTimeInt)/interval + 1, Interval: interval}
+	logger.Debug("请求 日期分割  时间 step last : ", utils.GetIntTimeString(fromStepTimeInt), utils.GetIntTimeString(toInt))
 	times = append(times, hisReqParamTime)
 
-	logger.Debug("原始 请求 时间 end : ", utils.GetIntTimeString(to))
-	return &dstruct.HisReqParam{From: time.Unix(from, 0), To: time.Unix(to, 0), Times: times, Dur: dur, Interval: interval, Count: dur/interval + 1}
+	return &dstruct.HisReqParam{From: fromTime, To: toTime, Times: times, Dur: durInt, Interval: interval, Count: durInt/interval + 1}
 }

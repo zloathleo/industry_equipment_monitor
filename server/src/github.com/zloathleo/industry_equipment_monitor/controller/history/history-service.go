@@ -12,7 +12,7 @@ func generatePointHistoryChart(chartType string, points string, to string, dur s
 		return nil, errors.New(fmt.Sprintf("param 'points' is '%s'.", points))
 	}
 	pointsArray := strings.Split(points, ",")
-	if pointsArray == nil {
+	if pointsArray == nil || len(pointsArray) == 0{
 		return nil, errors.New(fmt.Sprintf("param 'points' [%s] is err.", points))
 	}
 
@@ -32,10 +32,10 @@ func generatePointHistoryChart(chartType string, points string, to string, dur s
 		}
 	}
 
-	hisMap, xAxis := fetchHistoryChartData(pointsArray, to64, durInt, intervalInt)
-	if hisMap != nil && xAxis != nil {
+	historyMap := fetchHistoryChartData(pointsArray, to64, durInt, intervalInt)
+	if historyMap != nil {
 
-		jsonBuffer := renderChartHistoryJson(hisMap, xAxis)
+		jsonBuffer := renderChartHistoryJson(historyMap)
 		return jsonBuffer.Bytes(), nil
 
 		//if chartType == "radar" {

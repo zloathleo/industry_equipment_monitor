@@ -1,13 +1,13 @@
 package history
 
 import (
-	"time"
 	"bytes"
-	"strconv"
 	"github.com/zloathleo/industry_equipment_monitor/common/logger"
-	"github.com/zloathleo/industry_equipment_monitor/utils"
 	. "github.com/zloathleo/industry_equipment_monitor/dstruct"
 	"github.com/zloathleo/industry_equipment_monitor/his"
+	"github.com/zloathleo/industry_equipment_monitor/utils"
+	"strconv"
+	"time"
 )
 
 /**
@@ -23,51 +23,43 @@ dur 为枚举值[600...86400]
 86400 	24小时   interval=60    1440点+1
 604800 	168小时  interval=600    1008点+1
 */
-func fetchHistoryChartData(pointsArray []string, to int64, dur int, interval int) (map[string][]*HDas, []int64) {
-	if pointsArray == nil || len(pointsArray) == 0 {
-		return nil, nil
-	}
-	hisReqParam := his.FormatChartHisReqParam(to, dur, interval)
+func fetchHistoryChartData(pointsArray []string, to int64, dur int, interval int) *PointsValueHistory {
+	hisReqParam := his.NewHisReqParam(to, dur, interval)
 
 	if hisReqParam == nil {
 		logger.Warnf("request his param is err to[%d], dur[%d]", to, dur)
-		return nil, nil
+		return nil
 	}
 
 	times := hisReqParam.Times
 	if times == nil || len(times) == 0 {
 		logger.Warnf("request his param is err to[%d], dur[%d]", to, dur)
-		return nil, nil
-	} else {
-		hisCount := hisReqParam.Count
-		interval := hisReqParam.Interval
-		//先初始化数据结果
-		//时间戳列表
-		xAxis := make([]int64, hisCount, hisCount)
-		for i := 0; i < hisCount; i++ {
-			xAxis[i] = hisReqParam.From.Unix() + int64(i*interval)
-		}
-		//历史数据结果集
-		var hisMap = make(map[string][]*HDas)
-		for _, point := range pointsArray {
-			hisMap[point] = make([]*HDas, hisCount, hisCount)
-		}
-		//历史请求总的上下文
-		hisReqContext := &HisReqContext{Count: hisCount, Index: 0}
-
-		//按天分文件查询
-		for _, item := range times {
-			begin := time.Now().UnixNano()
-			fillOneDayHistoryChartData(pointsArray, xAxis, item, hisMap, hisReqContext)
-			logger.Debugf("fillOneDayHistoryChartData const: %d ms. %v", (time.Now().UnixNano()-begin)/int64(1000000), item)
-		}
-		return hisMap, xAxis
+		return nil
 	}
+	pointsValueHistoryMap := NewPointsValueHistory(pointsArray, hisReqParam)
+
+	//历史请求总的上下文
+	hisReqContext := &HisReqContext{Count: hisReqParam.Count, Index: 0}
+
+	//按天分文件查询
+	//times[0].From = times[0].From - 60
+	//fillOneDayHistoryChartData(pointsArray, xAxis, times[0], hisMap, hisReqContext)
+	//
+	//for i:=1;i<len(times);i++{
+	//	item := times[i]
+	//	fillOneDayHistoryChartData(pointsArray, xAxis, item, hisMap, hisReqContext)
+	//}
+	for _, item := range times {
+		begin := time.Now().UnixNano()
+		fillOneDayHistoryChartData(pointsArray, item, pointsValueHistoryMap, hisReqContext)
+		logger.Debugf("fillOneDayHistoryChartData const: %d ms. %v", (time.Now().UnixNano()-begin)/int64(1000000), item)
+	}
+	return pointsValueHistoryMap
 
 }
 
 //只能查看from当天
-func fillOneDayHistoryChartData(pointsArray []string, xAxis []int64, paramTime *HisReqParamTime, hisMap map[string][]*HDas, hisReqContext *HisReqContext) {
+func fillOneDayHistoryChartData(pointsArray []string, paramTime *HisReqParamTime, historyMap *PointsValueHistory, hisReqContext *HisReqContext) {
 
 	fromTime := time.Unix(paramTime.From, 0)
 	toTime := time.Unix(paramTime.To, 0)
@@ -80,31 +72,29 @@ func fillOneDayHistoryChartData(pointsArray []string, xAxis []int64, paramTime *
 	//hisCount := hisReqParam.Count
 	interval := paramTime.Interval
 
-	i := fromHour
+	hourIndex := fromHour
 	//从第一个小时开始
-	for ; i < toHour; i++ {
+	for ; hourIndex < toHour; hourIndex++ {
 		blockTo = utils.GetTimeEndOfHour(blockForm)
 
 		//当前table 需要查找的数量
 		tableDataCount := int(utils.GetTimeNextIntHour(blockForm).Unix()-blockForm.Unix()) / interval
-		begin := time.Now().UnixNano()
-		his.SelectSingleTableHistoryData(pointsArray, blockForm, i, blockForm.Unix(), blockTo.Unix(), interval, tableDataCount, hisMap, hisReqContext)
-		logger.Debugf("SelectSingleTableHistoryData const: %d ms", (time.Now().UnixNano()-begin)/int64(1000000))
+
+		reqParamTime := NewHisReqParamTime(blockForm.Unix(), blockTo.Unix(), tableDataCount, interval)
+		his.SelectSingleTableHistoryData(pointsArray, reqParamTime, historyMap, hisReqContext)
 
 		hisReqContext.Index = hisReqContext.Index + tableDataCount
-		logger.Debugf("请求 小时分割  tableDataCount %v || %v || %d", blockForm, blockTo, tableDataCount)
 		blockForm = utils.GetTimeNextIntHour(blockTo)
 	}
 
 	tableDataCount := int(paramTime.To-blockForm.Unix())/interval + 1
-	logger.Debugf("req time tableDataCount %v || %v || %d", blockForm, paramTime.To, tableDataCount)
-	his.SelectSingleTableHistoryData(pointsArray, blockForm, toHour, blockForm.Unix(), paramTime.To, paramTime.Interval, tableDataCount, hisMap, hisReqContext)
+	his.SelectSingleTableHistoryData(pointsArray, NewHisReqParamTime(blockForm.Unix(), paramTime.To, tableDataCount, interval), historyMap, hisReqContext)
 	hisReqContext.Index = hisReqContext.Index + tableDataCount
 
 }
 
 //输出历史曲线Json数据
-func renderChartHistoryJson(hisMap map[string][]*HDas, xAxis []int64) *bytes.Buffer {
+func renderChartHistoryJson(historyMap *PointsValueHistory) *bytes.Buffer {
 	var builder bytes.Buffer
 
 	//root
@@ -112,7 +102,7 @@ func renderChartHistoryJson(hisMap map[string][]*HDas, xAxis []int64) *bytes.Buf
 
 	//xAxis
 	builder.WriteString("\"xAxis\":[")
-	for _, ts := range xAxis {
+	for _, ts := range historyMap.XAxis {
 		//builder.WriteString(strconv.FormatInt(ts,10) + ",")
 		builder.WriteString("\"" + utils.GetIntTimeString(ts) + "\",")
 	}
@@ -121,7 +111,7 @@ func renderChartHistoryJson(hisMap map[string][]*HDas, xAxis []int64) *bytes.Buf
 
 	//his data
 	builder.WriteString("\"series\":{ ")
-	for pn, dasArray := range hisMap {
+	for pn, dasArray := range historyMap.Series {
 		builder.WriteString("\"" + pn + "\":[ ")
 
 		for _, das := range dasArray {
