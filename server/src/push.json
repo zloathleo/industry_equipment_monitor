@@ -1,0 +1,15 @@
+{
+    "rows": [
+        {
+            "name": "4_40001",
+            "type": "double",
+            "value": 1
+        },
+        {
+            "name": "5_40001",
+            "type": "double",
+            "value": 0.0
+        }
+    ],
+    "timestamp": 1539329725
+}

@@ -1,0 +1,5 @@
+package alarm
+
+func CheckRealtimeAlarm(){
+
+}

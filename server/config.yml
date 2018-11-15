@@ -1,0 +1,10 @@
+app:
+    name: industry_equipment_monitor_server
+    port: 8088
+    loglevel: I
+
+control:
+    #是否触发自动逻辑
+    autologic: false
+    das-host: localhost
+    das-port: 8080

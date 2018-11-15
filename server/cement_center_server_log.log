@@ -1,0 +1,1977 @@
+2018/11/13 16:36:45 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:36:45 [I] <nil>
+2018/11/13 16:36:45 [I] <nil>
+2018/11/13 16:36:45 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:36:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/13 16:36:45 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/13 16:38:42 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:38:42 [I] <nil>
+2018/11/13 16:38:42 [I] <nil>
+2018/11/13 16:38:42 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:38:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/13 16:38:42 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/13 16:39:53 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:39:54 [I] <nil>
+2018/11/13 16:39:54 [I] <nil>
+2018/11/13 16:39:54 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:39:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/13 16:39:54 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/13 16:42:49 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:42:49 [I] <nil>
+2018/11/13 16:42:49 [I] <nil>
+2018/11/13 16:42:49 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:42:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/13 16:42:49 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/13 16:44:50 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:44:50 [I] <nil>
+2018/11/13 16:44:50 [I] <nil>
+2018/11/13 16:44:50 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:44:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/13 16:44:50 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/13 16:45:19 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:45:19 [I] <nil>
+2018/11/13 16:45:19 [I] <nil>
+2018/11/13 16:45:19 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:47:36 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:47:36 [I] <nil>
+2018/11/13 16:47:36 [I] <nil>
+2018/11/13 16:47:36 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:47:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/13 16:47:36 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/13 16:49:10 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:49:10 [I] <nil>
+2018/11/13 16:49:10 [I] <nil>
+2018/11/13 16:49:10 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:49:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/13 16:49:10 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/13 16:50:35 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:50:35 [I] <nil>
+2018/11/13 16:50:35 [I] <nil>
+2018/11/13 16:50:35 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:52:46 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:52:46 [I] <nil>
+2018/11/13 16:52:46 [I] <nil>
+2018/11/13 16:52:46 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:53:36 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:53:36 [I] <nil>
+2018/11/13 16:53:36 [I] <nil>
+2018/11/13 16:53:36 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:54:27 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:54:27 [I] <nil>
+2018/11/13 16:54:27 [I] <nil>
+2018/11/13 16:54:27 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/13 16:56:04 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/13 16:56:04 [I] <nil>
+2018/11/13 16:56:04 [I] <nil>
+2018/11/13 16:56:04 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:35:38 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:35:38 [I] <nil>
+2018/11/14 08:35:38 [I] <nil>
+2018/11/14 08:35:38 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:35:38 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 08:38:12 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:38:12 [I] <nil>
+2018/11/14 08:38:12 [I] <nil>
+2018/11/14 08:38:12 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:38:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:38:12 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 08:44:38 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:44:38 [I] <nil>
+2018/11/14 08:44:38 [I] <nil>
+2018/11/14 08:44:38 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:44:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:44:38 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 08:47:40 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:47:40 [I] <nil>
+2018/11/14 08:47:40 [I] <nil>
+2018/11/14 08:47:40 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:47:40 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:47:40 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 08:48:31 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:48:31 [I] <nil>
+2018/11/14 08:48:31 [I] <nil>
+2018/11/14 08:48:31 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:48:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:48:31 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 08:53:09 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:53:09 [I] <nil>
+2018/11/14 08:53:09 [I] <nil>
+2018/11/14 08:53:09 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:53:09 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:53:09 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 08:55:30 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:55:30 [I] <nil>
+2018/11/14 08:55:30 [I] <nil>
+2018/11/14 08:55:30 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:55:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:55:30 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 08:57:49 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 08:57:49 [I] <nil>
+2018/11/14 08:57:49 [I] <nil>
+2018/11/14 08:57:49 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 08:57:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 08:57:49 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 09:19:43 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 09:19:43 [I] <nil>
+2018/11/14 09:19:43 [I] <nil>
+2018/11/14 09:19:43 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 09:19:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 09:19:43 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 09:21:53 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 09:21:53 [I] <nil>
+2018/11/14 09:21:53 [I] <nil>
+2018/11/14 09:21:53 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 09:21:53 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 09:21:53 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 09:22:30 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 09:22:30 [I] <nil>
+2018/11/14 09:22:30 [I] <nil>
+2018/11/14 09:22:30 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 09:22:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 09:22:30 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 09:23:01 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 09:23:01 [I] <nil>
+2018/11/14 09:23:01 [I] <nil>
+2018/11/14 09:23:01 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 09:23:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 09:23:01 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 09:28:03 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 09:28:03 [I] <nil>
+2018/11/14 09:28:03 [I] <nil>
+2018/11/14 09:28:03 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 09:28:03 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 09:28:03 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 10:17:14 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!d(bool=false) 
+***********************************************************************************
+
+2018/11/14 10:17:14 [I] <nil>
+2018/11/14 10:17:14 [I] <nil>
+2018/11/14 10:17:14 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 10:17:14 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 10:17:14 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 10:52:28 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!B(bool=false)
+***********************************************************************************
+
+2018/11/14 10:52:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 18. industry_equipment_monitor_server is starting ...
+2018/11/14 10:52:28 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 10:53:45 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!B(bool=false)
+***********************************************************************************
+
+2018/11/14 10:53:45 [I] <nil>
+2018/11/14 10:53:45 [I] <nil>
+2018/11/14 10:53:45 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 10:53:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 20. industry_equipment_monitor_server is starting ...
+2018/11/14 10:53:45 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 11:00:14 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!B(bool=false)
+***********************************************************************************
+
+2018/11/14 11:00:14 [I] <nil>
+2018/11/14 11:00:14 [I] <nil>
+2018/11/14 11:00:14 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 11:00:14 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 20. industry_equipment_monitor_server is starting ...
+2018/11/14 11:00:14 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 11:03:42 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!B(bool=false)
+***********************************************************************************
+
+2018/11/14 11:03:42 [I] <nil>
+2018/11/14 11:03:42 [I] <nil>
+2018/11/14 11:03:42 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 11:03:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/app.go at 20. industry_equipment_monitor_server is starting ...
+2018/11/14 11:03:42 [I] industry_equipment_monitor_server http server is running and listen at 8088.
+2018/11/14 15:59:42 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!B(bool=false)
+***********************************************************************************
+
+2018/11/14 15:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 15:59:42 [I] <nil>
+2018/11/14 15:59:42 [I] <nil>
+2018/11/14 15:59:42 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 15:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 101.  pointscheme init ok.
+2018/11/14 15:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 15:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 15:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:00:15 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!B(bool=false)
+***********************************************************************************
+
+2018/11/14 16:00:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:01:07 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic %!B(bool=false)
+***********************************************************************************
+
+2018/11/14 16:01:07 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:01:15 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:01:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:01:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:01:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:01:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:02:31 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+
+2018/11/14 16:02:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:02:31 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:02:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:02:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:02:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:02:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:03:10 [I] 
+***********************************************************************************
+***********************************************************************************
+****                        		SAFEFIRE INC.                              ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:03:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:03:10 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:03:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:03:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:03:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:03:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:04:12 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:04:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:04:12 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:04:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:04:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:04:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:04:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:07:21 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:07:21 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:07:21 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:07:21 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:07:21 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:07:21 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:07:21 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:08:44 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:08:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:08:44 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:08:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:08:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:08:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:08:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:10:23 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:10:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:10:23 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:10:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:10:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:10:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:10:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:34:55 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:34:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:34:55 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:34:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:34:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:34:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:34:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:39:12 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:39:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:39:12 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:39:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:39:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:39:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:39:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 16:49:08 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 16:49:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 16:49:08 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 16:49:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 16:49:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 16:49:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 16:49:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 17:28:32 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 17:28:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 17:28:32 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 17:28:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 17:28:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 17:28:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 17:28:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 17:50:55 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 17:50:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 17:50:55 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 17:50:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 17:50:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 20.  memcache init ok.
+2018/11/14 17:50:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 17:50:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 18:39:45 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 18:39:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 18:39:46 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 18:39:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 18:39:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/14 18:39:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 18:39:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 18:41:05 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 18:41:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 18:41:06 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 18:41:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 18:41:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/14 18:41:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/14 18:41:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 18:41:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 18:43:30 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 18:43:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 18:43:30 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 18:43:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 18:43:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/14 18:43:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/14 18:43:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 18:43:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 18:43:31 [I] 2018-11-14 18:43:31.0126953 +0800 CST m=+0.225586001
+2018/11/14 18:43:32 [I] 2018-11-14 18:43:32 +0800 CST m=+1.212890701
+2018/11/14 18:43:33 [I] 2018-11-14 18:43:33 +0800 CST m=+2.212890701
+2018/11/14 18:43:34 [I] 2018-11-14 18:43:34 +0800 CST m=+3.212890701
+2018/11/14 18:43:35 [I] 2018-11-14 18:43:35 +0800 CST m=+4.212890701
+2018/11/14 18:43:36 [I] 2018-11-14 18:43:36 +0800 CST m=+5.212890701
+2018/11/14 18:43:37 [I] 2018-11-14 18:43:37 +0800 CST m=+6.212890701
+2018/11/14 18:43:38 [I] 2018-11-14 18:43:38 +0800 CST m=+7.212890701
+2018/11/14 18:43:54 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/14 18:43:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/14 18:43:54 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/14 18:43:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/14 18:43:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/14 18:43:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/14 18:43:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/14 18:43:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/14 18:43:55 [I] 1542192235014648400
+2018/11/14 18:43:56 [I] 1542192236000000000
+2018/11/14 18:43:57 [I] 1542192237000000000
+2018/11/14 18:43:58 [I] 1542192238000000000
+2018/11/14 18:43:59 [I] 1542192239000000000
+2018/11/14 18:44:00 [I] 1542192240000000000
+2018/11/14 18:44:01 [I] 1542192241000000000
+2018/11/14 18:44:02 [I] 1542192242000000000
+2018/11/14 18:44:03 [I] 1542192243000000000
+2018/11/14 18:44:04 [I] 1542192244000000000
+2018/11/14 18:44:05 [I] 1542192245000000000
+2018/11/15 10:15:04 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 10:15:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 10:15:04 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 10:15:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 10:15:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 10:15:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/15 10:15:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 10:15:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 10:15:05 [I] 1542248105010023400
+2018/11/15 10:15:06 [I] 1542248106001234300
+2018/11/15 10:15:07 [I] 1542248107001234300
+2018/11/15 10:15:08 [I] 1542248108001234300
+2018/11/15 10:15:09 [I] 1542248109001234300
+2018/11/15 10:15:10 [I] 1542248110001234300
+2018/11/15 10:15:11 [I] 1542248111001234300
+2018/11/15 10:15:12 [I] 1542248112001234300
+2018/11/15 10:15:13 [I] 1542248113001234300
+2018/11/15 10:15:14 [I] 1542248114001234300
+2018/11/15 10:15:15 [I] 1542248115001234300
+2018/11/15 10:15:16 [I] 1542248116001234300
+2018/11/15 10:15:17 [I] 1542248117001234300
+2018/11/15 10:15:18 [I] 1542248118001234300
+2018/11/15 10:15:19 [I] 1542248119001234300
+2018/11/15 10:15:20 [I] 1542248120001234300
+2018/11/15 10:15:21 [I] 1542248121001234300
+2018/11/15 10:15:22 [I] 1542248122001234300
+2018/11/15 10:15:23 [I] 1542248123001234300
+2018/11/15 10:27:37 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 10:27:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 10:27:37 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 10:27:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 10:27:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 10:27:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/15 10:27:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 10:27:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 10:28:11 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 10:28:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 10:28:11 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 10:28:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 10:28:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 10:28:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/15 10:28:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 10:28:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 10:28:12 [I] 1542248892952406200
+2018/11/15 10:28:13 [I] 1542248893955335900
+2018/11/15 10:28:14 [I] 1542248894956312500
+2018/11/15 10:28:15 [I] 1542248895956312500
+2018/11/15 10:28:16 [I] 1542248896952406200
+2018/11/15 10:28:17 [I] 1542248897956312500
+2018/11/15 10:28:18 [I] 1542248898956312500
+2018/11/15 10:28:19 [I] 1542248899956312500
+2018/11/15 10:28:20 [I] 1542248900956312500
+2018/11/15 10:28:57 [I] 1542248937699476500
+2018/11/15 10:29:04 [I] 1542248944154554700
+2018/11/15 10:29:04 [I] 1542248944965101500
+2018/11/15 10:29:05 [I] 1542248945956312500
+2018/11/15 10:29:06 [I] 1542248946956312500
+2018/11/15 10:29:07 [I] 1542248947956312500
+2018/11/15 10:29:08 [I] 1542248948956312500
+2018/11/15 10:29:09 [I] 1542248949956312500
+2018/11/15 10:29:10 [I] 1542248950956312500
+2018/11/15 10:29:11 [I] 1542248951956312500
+2018/11/15 10:29:12 [I] 1542248952956312500
+2018/11/15 10:29:13 [I] 1542248953956312500
+2018/11/15 10:29:14 [I] 1542248954956312500
+2018/11/15 10:29:15 [I] 1542248955956312500
+2018/11/15 10:29:16 [I] 1542248956956312500
+2018/11/15 10:29:17 [I] 1542248957956312500
+2018/11/15 10:29:18 [I] 1542248958956312500
+2018/11/15 10:29:19 [I] 1542248959956312500
+2018/11/15 10:29:20 [I] 1542248960956312500
+2018/11/15 10:29:21 [I] 1542248961956312500
+2018/11/15 10:29:22 [I] 1542248962950453100
+2018/11/15 10:29:23 [I] 1542248963956312500
+2018/11/15 10:29:24 [I] 1542248964956312500
+2018/11/15 10:29:25 [I] 1542248965956312500
+2018/11/15 10:29:26 [I] 1542248966956312500
+2018/11/15 10:29:27 [I] 1542248967957289000
+2018/11/15 10:29:28 [I] 1542248968956312500
+2018/11/15 10:29:29 [I] 1542248969956312500
+2018/11/15 10:29:30 [I] 1542248970956312500
+2018/11/15 10:29:31 [I] 1542248971955335900
+2018/11/15 10:29:32 [I] 1542248972956312500
+2018/11/15 10:29:33 [I] 1542248973956312500
+2018/11/15 10:29:34 [I] 1542248974956312500
+2018/11/15 10:29:35 [I] 1542248975956312500
+2018/11/15 10:29:36 [I] 1542248976956312500
+2018/11/15 10:29:37 [I] 1542248977956312500
+2018/11/15 10:29:38 [I] 1542248978956312500
+2018/11/15 10:29:39 [I] 1542248979956312500
+2018/11/15 10:29:40 [I] 1542248980956312500
+2018/11/15 10:29:41 [I] 1542248981955335900
+2018/11/15 10:29:42 [I] 1542248982956312500
+2018/11/15 10:29:43 [I] 1542248983956312500
+2018/11/15 10:29:44 [I] 1542248984956312500
+2018/11/15 10:29:45 [I] 1542248985956312500
+2018/11/15 10:29:46 [I] 1542248986956312500
+2018/11/15 10:29:47 [I] 1542248987956312500
+2018/11/15 10:29:48 [I] 1542248988957289000
+2018/11/15 10:29:49 [I] 1542248989955335900
+2018/11/15 10:29:50 [I] 1542248990956312500
+2018/11/15 10:29:51 [I] 1542248991956312500
+2018/11/15 10:29:52 [I] 1542248992956312500
+2018/11/15 10:29:53 [I] 1542248993956312500
+2018/11/15 10:29:54 [I] 1542248994956312500
+2018/11/15 10:29:55 [I] 1542248995955335900
+2018/11/15 10:29:56 [I] 1542248996956312500
+2018/11/15 10:29:57 [I] 1542248997956312500
+2018/11/15 10:29:58 [I] 1542248998962171800
+2018/11/15 10:29:59 [I] 1542248999956312500
+2018/11/15 10:30:00 [I] 1542249000956312500
+2018/11/15 10:30:01 [I] 1542249001956312500
+2018/11/15 10:30:02 [I] 1542249002956312500
+2018/11/15 10:30:03 [I] 1542249003956312500
+2018/11/15 10:30:04 [I] 1542249004958265600
+2018/11/15 10:30:05 [I] 1542249005956312500
+2018/11/15 10:30:06 [I] 1542249006959242200
+2018/11/15 10:30:07 [I] 1542249007956312500
+2018/11/15 10:30:08 [I] 1542249008956312500
+2018/11/15 10:30:09 [I] 1542249009956312500
+2018/11/15 10:30:10 [I] 1542249010956312500
+2018/11/15 10:30:11 [I] 1542249011956312500
+2018/11/15 10:30:12 [I] 1542249012956312500
+2018/11/15 10:30:13 [I] 1542249013956312500
+2018/11/15 10:30:14 [I] 1542249014956312500
+2018/11/15 10:30:15 [I] 1542249015955335900
+2018/11/15 10:30:16 [I] 1542249016956312500
+2018/11/15 10:30:17 [I] 1542249017956312500
+2018/11/15 10:30:18 [I] 1542249018956312500
+2018/11/15 10:30:19 [I] 1542249019956312500
+2018/11/15 10:30:20 [I] 1542249020956312500
+2018/11/15 10:30:21 [I] 1542249021956312500
+2018/11/15 10:30:22 [I] 1542249022956312500
+2018/11/15 10:30:23 [I] 1542249023964125000
+2018/11/15 10:30:24 [I] 1542249024962171800
+2018/11/15 10:30:25 [I] 1542249025956312500
+2018/11/15 10:30:26 [I] 1542249026956312500
+2018/11/15 10:30:27 [I] 1542249027955335900
+2018/11/15 10:30:28 [I] 1542249028956312500
+2018/11/15 10:30:29 [I] 1542249029956312500
+2018/11/15 10:30:30 [I] 1542249030956312500
+2018/11/15 10:30:31 [I] 1542249031956312500
+2018/11/15 10:30:32 [I] 1542249032956312500
+2018/11/15 10:30:33 [I] 1542249033956312500
+2018/11/15 10:30:34 [I] 1542249034956312500
+2018/11/15 10:30:35 [I] 1542249035960218700
+2018/11/15 10:30:36 [I] 1542249036956312500
+2018/11/15 10:30:37 [I] 1542249037956312500
+2018/11/15 10:30:38 [I] 1542249038956312500
+2018/11/15 10:30:39 [I] 1542249039956312500
+2018/11/15 10:30:40 [I] 1542249040956312500
+2018/11/15 10:30:41 [I] 1542249041956312500
+2018/11/15 10:30:42 [I] 1542249042956312500
+2018/11/15 10:30:43 [I] 1542249043956312500
+2018/11/15 10:30:44 [I] 1542249044956312500
+2018/11/15 10:30:45 [I] 1542249045956312500
+2018/11/15 10:30:46 [I] 1542249046956312500
+2018/11/15 10:30:47 [I] 1542249047956312500
+2018/11/15 10:30:48 [I] 1542249048956312500
+2018/11/15 10:30:49 [I] 1542249049956312500
+2018/11/15 10:30:50 [I] 1542249050956312500
+2018/11/15 10:30:51 [I] 1542249051956312500
+2018/11/15 10:30:52 [I] 1542249052956312500
+2018/11/15 10:30:53 [I] 1542249053956312500
+2018/11/15 10:30:54 [I] 1542249054956312500
+2018/11/15 10:30:55 [I] 1542249055956312500
+2018/11/15 10:30:56 [I] 1542249056956312500
+2018/11/15 10:30:57 [I] 1542249057956312500
+2018/11/15 10:30:58 [I] 1542249058956312500
+2018/11/15 10:30:59 [I] 1542249059956312500
+2018/11/15 10:31:00 [I] 1542249060956312500
+2018/11/15 10:31:01 [I] 1542249061956312500
+2018/11/15 10:31:02 [I] 1542249062956312500
+2018/11/15 10:31:03 [I] 1542249063956312500
+2018/11/15 10:31:04 [I] 1542249064950453100
+2018/11/15 10:31:05 [I] 1542249065956312500
+2018/11/15 10:31:06 [I] 1542249066956312500
+2018/11/15 10:31:07 [I] 1542249067955335900
+2018/11/15 10:31:08 [I] 1542249068956312500
+2018/11/15 10:31:09 [I] 1542249069956312500
+2018/11/15 10:32:17 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 10:32:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 10:32:17 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 10:32:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 10:32:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 10:32:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/15 10:32:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 10:32:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 10:32:18 [I] 1542249138960218700
+2018/11/15 10:32:19 [I] 1542249139956312500
+2018/11/15 10:32:20 [I] 1542249140956312500
+2018/11/15 10:32:21 [I] 1542249141956312500
+2018/11/15 10:32:22 [I] 1542249142956312500
+2018/11/15 10:32:23 [I] 1542249143956312500
+2018/11/15 10:32:24 [I] 1542249144956312500
+2018/11/15 10:32:25 [I] 1542249145955335900
+2018/11/15 10:32:26 [I] 1542249146956312500
+2018/11/15 10:32:27 [I] 1542249147956312500
+2018/11/15 10:32:28 [I] 1542249148955335900
+2018/11/15 10:32:36 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 10:32:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 10:32:36 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 10:32:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 10:32:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 10:32:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/15 10:32:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 10:32:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 10:32:37 [I] 1542249157958265600
+2018/11/15 10:32:38 [I] 1542249158956312500
+2018/11/15 10:32:39 [I] 1542249159956312500
+2018/11/15 10:32:40 [I] 1542249160956312500
+2018/11/15 10:32:41 [I] 1542249161960218700
+2018/11/15 10:32:42 [I] 1542249162956312500
+2018/11/15 10:32:43 [I] 1542249163956312500
+2018/11/15 10:32:44 [I] 1542249164956312500
+2018/11/15 10:32:45 [I] 1542249165955335900
+2018/11/15 10:32:46 [I] 1542249166956312500
+2018/11/15 10:32:47 [I] 1542249167956312500
+2018/11/15 10:32:48 [I] 1542249168956312500
+2018/11/15 10:32:49 [I] 1542249169956312500
+2018/11/15 10:32:50 [I] 1542249170956312500
+2018/11/15 10:41:25 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 10:41:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 10:41:25 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 10:41:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 10:41:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 10:41:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/15 10:41:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 10:41:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 10:41:43 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:44 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:45 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:46 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:47 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:48 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:49 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:50 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 10:41:51 [D] INSERT INTO his24_10 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:00:43 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 11:00:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 11:00:43 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 11:00:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 11:00:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 11:00:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 7.  his init ok.
+2018/11/15 11:00:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 11:00:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 11:00:49 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:00:58 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:01:00 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:01:01 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:01:02 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:01:05 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:26:11 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 11:26:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 11:26:11 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 11:26:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 11:26:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 11:26:18 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 34.  db file directory created.
+2018/11/15 11:26:28 [D] newSQLite3FileConnect data/data-2018-11-15.DB 
+2018/11/15 11:26:28 [I] newSQLite3FileConnect create data/data-2018-11-15.DB file success.
+2018/11/15 11:26:31 [I] init db const time 19503 ms.
+2018/11/15 11:26:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 11:26:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 11:26:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 11:28:17 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:18 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:18 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 6953 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:28:18 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 7019 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:28:19 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:19 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 7085 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:28:20 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:20 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 7154 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:28:21 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:21 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 7199 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:28:22 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:22 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 7297 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:28:23 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:23 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 7362 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:28:24 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:28:24 cron: panic running job: runtime error: invalid memory address or nil pointer dereference
+goroutine 7363 [running]:
+github.com/robfig/cron.(*Cron).runWithRecovery.func1(0xc0421a81e0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:161 +0xbd
+panic(0xc5af20, 0x10edc30)
+	C:/Go/src/runtime/panic.go:502 +0x258
+github.com/zloathleo/industry_equipment_monitor/his.saveRealtime()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go:34 +0x99d
+github.com/zloathleo/industry_equipment_monitor/his.initCorn.func1()
+	D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/corn.go:43 +0x27
+github.com/robfig/cron.FuncJob.Run(0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:92 +0x2c
+github.com/robfig/cron.(*Cron).runWithRecovery(0xc0421a81e0, 0xd91e60, 0xd51bc0)
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:165 +0x62
+created by github.com/robfig/cron.(*Cron).run
+	D:/workspace/industry_equipment_monitor/server/.gopath/src/github.com/robfig/cron/cron.go:199 +0x5f5
+2018/11/15 11:29:01 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 11:29:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 11:29:01 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 11:29:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 11:29:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 21.  memcache init ok.
+2018/11/15 11:29:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 11:29:05 [D] newSQLite3FileConnect data/data-2018-11-15.DB 
+2018/11/15 11:29:05 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 11:29:05 [I] init db const time 3919 ms.
+2018/11/15 11:29:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 11:29:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 11:29:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 11:29:09 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:29:55 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 11:30:17 [D] INSERT INTO his24_11 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 12:37:44 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 12:37:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 12:37:44 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 12:37:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 12:37:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 12:37:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 12:37:44 [D] newSQLite3FileConnect data/data-2018-11-15.DB 
+2018/11/15 12:37:44 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 12:37:44 [I] init db const time 0 ms.
+2018/11/15 12:37:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 12:37:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 12:37:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 12:37:52 [D] INSERT INTO his24_12 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 12:38:01 [D] INSERT INTO his24_12 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 12:38:09 [D] INSERT INTO his24_12 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 12:38:10 [D] INSERT INTO his24_12 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 12:38:11 [D] INSERT INTO his24_12 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 12:38:12 [D] INSERT INTO his24_12 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 12:38:13 [D] INSERT INTO his24_12 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:38 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:35:38 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:35:38 [D] newSQLite3FileConnect data/data-2018-11-15.DB 
+2018/11/15 14:35:38 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:35:38 [I] init db const time 0 ms.
+2018/11/15 14:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:35:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 14:35:47 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:48 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:49 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:50 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:51 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:52 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:53 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:54 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:55 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:56 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:57 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:58 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:35:59 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:51:43 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:51:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:51:43 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:51:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:51:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:51:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:51:43 [D] newSQLite3FileConnect data/data-2018-11-15.DB 
+2018/11/15 14:51:43 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:51:43 [I] init db const time 0 ms.
+2018/11/15 14:51:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:51:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:51:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 14:51:56 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:51:57 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:51:58 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:51:59 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:52:00 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:52:01 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:53:05 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:53:06 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:11 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:59:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:59:11 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:59:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:59:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:59:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:59:11 [D] newSQLite3FileConnect data/data-2018-11-15.DB 
+2018/11/15 14:59:11 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:59:11 [I] init db const time 0 ms.
+2018/11/15 14:59:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:59:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:59:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 14:59:22 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:22 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:22 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:22 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:23 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:24 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:24 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:24 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:24 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:24 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:25 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:26 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:27 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:27 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:27 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:27 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:27 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:28 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:29 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:29 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:29 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:29 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:29 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:30 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:31 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:32 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:33 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:33 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:33 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:33 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:33 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:34 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:34 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:34 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:34 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:34 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:35 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:35 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:35 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:35 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:35 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:36 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:37 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:38 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:39 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:39 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:39 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:39 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:39 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:40 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:40 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:40 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:40 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:40 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:41 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:42 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:43 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:44 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:45 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:46 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:47 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:47 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:47 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:47 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:47 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:48 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:49 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:50 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:51 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:51 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:51 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:51 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:51 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:52 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:52 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:52 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:52 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:52 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:53 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:53 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:53 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:53 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:53 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:54 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:55 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:56 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:57 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:57 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:57 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:57 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:57 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:58 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:58 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:58 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:58 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:58 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:59:59 [D] INSERT INTO his24_14 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 14:59:59 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 14:59:59 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 14:59:59 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 14:59:59 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:00 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:00 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:00 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:00 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:00 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:00 [I] begin insert memcache into newtable
+2018/11/15 15:00:00 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:00 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 33. insert real time data err [UNIQUE constraint failed: his24_15.pn, his24_15.t].
+2018/11/15 15:00:00 [I] finish insert memcache 
+2018/11/15 15:00:01 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:01 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:02 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:02 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:02 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:02 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:02 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:03 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:03 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:03 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:03 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:03 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:04 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:04 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:05 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:05 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:06 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:06 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:07 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:07 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:07 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:07 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:07 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:08 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:09 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:09 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:09 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:09 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:09 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:10 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:10 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:11 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:11 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:12 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:13 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:14 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:14 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:14 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:14 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:14 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:15 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:16 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:16 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:16 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:16 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:16 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 15:00:17 [D] INSERT INTO his24_15 (pn, t, value) VALUES (?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?),(?, ?, ?)
+2018/11/15 15:00:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40019' scheme is not found.
+2018/11/15 15:00:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40033' scheme is not found.
+2018/11/15 15:00:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40047' scheme is not found.
+2018/11/15 15:00:17 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/realtime/tools.go at 26. point '5_40061' scheme is not found.
+2018/11/15 14:58:44 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:58:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:58:44 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:58:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:58:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:58:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:58:44 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:58:44 [I] init db const time 0 ms.
+2018/11/15 14:58:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:58:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:58:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 14:59:23 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:24 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:25 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:26 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:27 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:28 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:29 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:30 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:31 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:32 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:33 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:34 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:35 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:36 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:37 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:39 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:40 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:42 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:43 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:45 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:46 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:47 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:51 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:52 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:53 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:54 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:57 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:58 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 14:59:59 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 37. insert real time data err [UNIQUE constraint failed: his24_14.pn, his24_14.t].
+2018/11/15 15:00:00 [I] begin insert memcache into newtable
+2018/11/15 15:00:00 [I] finish insert memcache 
+2018/11/15 14:59:41 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:59:41 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:59:41 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:59:41 [I] init db const time 0 ms.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:59:41 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 15:00:00 [I] begin insert memcache into newtable
+2018/11/15 15:00:00 [I] finish insert memcache 
+2018/11/15 14:59:55 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:59:55 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:59:55 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:59:55 [I] init db const time 0 ms.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:59:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 15:00:00 [I] begin insert memcache into newtable
+2018/11/15 15:00:00 [I] finish insert memcache 
+2018/11/15 15:00:27 [I] Got signal [interrupt], app exit.
+2018/11/15 15:00:48 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 15:00:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 15:00:48 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 15:00:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 15:00:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 15:00:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 15:00:48 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 15:00:48 [I] init db const time 0 ms.
+2018/11/15 15:00:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 15:00:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 15:00:48 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 15:00:52 [I] Got signal [interrupt], app exit.
+2018/11/15 14:59:08 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:59:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:59:08 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:59:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:59:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:59:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:59:08 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:59:08 [I] init db const time 0 ms.
+2018/11/15 14:59:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:59:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:59:08 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 15:00:00 [I] begin insert memcache into newtable
+2018/11/15 15:00:00 [I] finish insert memcache 
+2018/11/15 15:02:47 [I] Got signal [interrupt], app exit.
+2018/11/15 14:59:15 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 14:59:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 14:59:15 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 14:59:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 14:59:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 14:59:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 14:59:15 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 14:59:15 [I] init db const time 0 ms.
+2018/11/15 14:59:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 14:59:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 14:59:15 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 15:00:00 [I] begin insert memcache into newtable
+2018/11/15 15:00:00 [I] finish insert memcache 
+2018/11/15 15:09:23 [I] Got signal [interrupt], app exit.
+2018/11/15 23:58:38 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 23:58:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 23:58:38 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 23:58:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 23:58:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 23:58:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 23:58:38 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 23:58:38 [I] init db const time 0 ms.
+2018/11/15 23:58:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 23:58:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 23:58:38 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 23:59:00 [I] newSQLite3FileConnect create data/data-2018-11-16.DB file success.
+2018/11/16 00:00:00 [I] exchange today db 2018-11-16 ok
+2018/11/16 00:00:00 [I] begin insert memcache into newtable
+2018/11/16 00:00:00 [I] finish insert memcache 
+2018/11/15 23:59:13 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 23:59:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 23:59:13 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 23:59:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 23:59:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 23:59:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 23:59:13 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 23:59:13 [I] init db const time 0 ms.
+2018/11/15 23:59:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 23:59:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 23:59:13 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 23:59:14 [I] insert real time data ok count [{825741770752 825742639168}].
+2018/11/15 23:59:15 [I] insert real time data ok count [{825741770752 825741410864}].
+2018/11/15 23:59:16 [I] insert real time data ok count [{825741770752 825741410304}].
+2018/11/15 23:59:17 [I] insert real time data ok count [{825741770752 825741410672}].
+2018/11/15 23:59:18 [I] insert real time data ok count [{825741770752 825742639168}].
+2018/11/15 23:59:19 [I] insert real time data ok count [{825741770752 825742639168}].
+2018/11/15 23:59:21 [I] insert real time data ok count [{825741770752 825741410304}].
+2018/11/15 23:59:22 [I] insert real time data ok count [{825741770752 825742639296}].
+2018/11/15 23:59:23 [I] insert real time data ok count [{825741770752 825741410896}].
+2018/11/15 23:59:24 [I] insert real time data ok count [{825741770752 825741410416}].
+2018/11/15 23:59:25 [I] insert real time data ok count [{825741770752 825742639168}].
+2018/11/15 23:59:26 [I] insert real time data ok count [{825741770752 825742640368}].
+2018/11/15 23:59:27 [I] insert real time data ok count [{825741770752 825741410864}].
+2018/11/15 23:59:28 [I] insert real time data ok count [{825741770752 825741410656}].
+2018/11/15 23:59:29 [I] insert real time data ok count [{825741770752 825741410896}].
+2018/11/15 23:59:29 [I] Got signal [interrupt], app exit.
+2018/11/15 23:59:49 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/15 23:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/15 23:59:49 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/15 23:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/15 23:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/15 23:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/15 23:59:49 [I] newSQLite3FileConnect data/data-2018-11-15.DB is exist.
+2018/11/15 23:59:49 [I] init db const time 0 ms.
+2018/11/15 23:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/15 23:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/15 23:59:49 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/15 23:59:56 [I] insert real time data ok count [5].
+2018/11/15 23:59:57 [I] insert real time data ok count [5].
+2018/11/15 23:59:58 [I] insert real time data ok count [5].
+2018/11/15 23:59:59 [I] insert real time data ok count [5].
+2018/11/16 00:00:00 [I] newSQLite3FileConnect data/data-2018-11-16.DB is exist.
+2018/11/16 00:00:00 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/saveRealtime.go at 39. insert real time data err [UNIQUE constraint failed: his24_0.pn, his24_0.t].
+2018/11/16 00:00:00 [I] exchange today db 2018-11-16 ok
+2018/11/16 00:00:00 [I] begin insert memcache into newtable
+2018/11/16 00:00:00 [I] insert real time data ok count [6].
+2018/11/16 00:00:00 [I] finish insert memcache 
+2018/11/16 00:00:01 [I] insert real time data ok count [5].
+2018/11/16 00:00:02 [I] insert real time data ok count [5].
+2018/11/16 00:00:03 [I] insert real time data ok count [5].
+2018/11/16 00:00:04 [I] insert real time data ok count [5].
+2018/11/16 00:03:07 [I] Got signal [interrupt], app exit.
+2018/11/16 00:46:12 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/16 00:46:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/16 00:46:12 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/16 00:46:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/16 00:46:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/16 00:46:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/16 00:46:12 [I] newSQLite3FileConnect data/data-2018-11-16.DB is exist.
+2018/11/16 00:46:12 [I] init db const time 0 ms.
+2018/11/16 00:46:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/16 00:46:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/16 00:46:12 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41.  http server is running and listen at %d.8088
+2018/11/16 00:46:55 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/16 00:46:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/16 00:46:55 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/16 00:46:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/16 00:46:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/16 00:46:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/16 00:46:55 [I] newSQLite3FileConnect data/data-2018-11-16.DB is exist.
+2018/11/16 00:46:55 [I] init db const time 0 ms.
+2018/11/16 00:46:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/16 00:46:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/16 00:46:55 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.
+2018/11/16 00:47:16 [I] newSQLite3FileConnect data/data-2018-10-31.DB is exist.
+2018/11/16 00:49:56 [I]  
+***********************************************************************************
+****                        	   SAFEFIRE INC.                               ****
+*********************************************************************************** 
+**** load config file ok
+**** App.Name industry_equipment_monitor_server
+**** App.Port 8088
+**** Control.AutoLogic false
+***********************************************************************************
+2018/11/16 00:49:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/common/index.go at 12.  common init ok.
+2018/11/16 00:49:56 [I] select t.name,t.typ,t.nickname,t.unit,t.des,t.upper,t.lower,t.h,t.l,t.hh,t.ll,t.value_formula,t.alarm_formula,t.device from point_scheme t
+2018/11/16 00:49:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/pointscheme/point_cheme.go at 94.  pointscheme init ok.
+2018/11/16 00:49:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/memcache/index.go at 22.  memcache init ok.
+2018/11/16 00:49:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/dbinit.go at 28.  data file directory is exist.
+2018/11/16 00:49:56 [I] newSQLite3FileConnect data/data-2018-11-16.DB is exist.
+2018/11/16 00:49:56 [I] init db const time 0 ms.
+2018/11/16 00:49:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/his/index.go at 10.  his init ok.
+2018/11/16 00:49:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 40.  http init ok.
+2018/11/16 00:49:56 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/httpr/index.go at 41. http server is running and listen at 8088.
+2018/11/16 00:49:56 [I] newSQLite3FileConnect data/data-2018-10-31.DB is exist.
+2018/11/16 00:50:44 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/history/history-setvice-chart.go at 33. request his param is err to[1540980000], dur[10]
+2018/11/16 00:50:50 [W] D:/workspace/industry_equipment_monitor/server/src/github.com/zloathleo/industry_equipment_monitor/controller/history/history-setvice-chart.go at 33. request his param is err to[1540980000], dur[60]
+2018/11/16 00:53:28 [I] newSQLite3FileConnect data/data-2018-10-30.DB is exist.
+2018/11/16 00:56:26 [I] Got signal [interrupt], app exit.
